@@ -1,0 +1,14 @@
+C:\Users\theodor.freed\Documents\Programmering\steg4\steg4\bin\Debug\net8.0\steg4.exe
+C:\Users\theodor.freed\Documents\Programmering\steg4\steg4\bin\Debug\net8.0\steg4.deps.json
+C:\Users\theodor.freed\Documents\Programmering\steg4\steg4\bin\Debug\net8.0\steg4.runtimeconfig.json
+C:\Users\theodor.freed\Documents\Programmering\steg4\steg4\bin\Debug\net8.0\steg4.dll
+C:\Users\theodor.freed\Documents\Programmering\steg4\steg4\bin\Debug\net8.0\steg4.pdb
+C:\Users\theodor.freed\Documents\Programmering\steg4\steg4\obj\Debug\net8.0\steg4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\theodor.freed\Documents\Programmering\steg4\steg4\obj\Debug\net8.0\steg4.AssemblyInfoInputs.cache
+C:\Users\theodor.freed\Documents\Programmering\steg4\steg4\obj\Debug\net8.0\steg4.AssemblyInfo.cs
+C:\Users\theodor.freed\Documents\Programmering\steg4\steg4\obj\Debug\net8.0\steg4.csproj.CoreCompileInputs.cache
+C:\Users\theodor.freed\Documents\Programmering\steg4\steg4\obj\Debug\net8.0\steg4.dll
+C:\Users\theodor.freed\Documents\Programmering\steg4\steg4\obj\Debug\net8.0\refint\steg4.dll
+C:\Users\theodor.freed\Documents\Programmering\steg4\steg4\obj\Debug\net8.0\steg4.pdb
+C:\Users\theodor.freed\Documents\Programmering\steg4\steg4\obj\Debug\net8.0\steg4.genruntimeconfig.cache
+C:\Users\theodor.freed\Documents\Programmering\steg4\steg4\obj\Debug\net8.0\ref\steg4.dll
